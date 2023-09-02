@@ -26,7 +26,7 @@ export default function Footer() {
         </div>
         <div className="footer_link_box">
           <a
-            href="https://github.com/erfjs/foodstuffs_store"
+            href="https://github.com/Orophil/food.git"
             target="_blank"
             rel="noopener noreferrer"
           >
